@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-app:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-05-13T22:48:54.683863+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 88830367d9a8c428492a27dbc314b1103cf42350730b7a25f878c8699d75a92f
+    name: my-app
+    urls:
+    - https://github.com/superbeer/helm-example.git/my-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-13T22:48:54.682234+07:00"
